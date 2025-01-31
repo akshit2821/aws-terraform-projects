@@ -1,0 +1,17 @@
+sdkr:
+  docker_password: ""
+  docker_username: ""
+  google_application_credentials: ""
+  imageName: ""
+  provisionAcrRegistryName: ""
+  provisionAcrResourceGroup: ""
+  provisionAcrSubscriptionID: ""
+  provisionEcrRegion: ""
+  provisionEcrRepository: ""
+  provisionGcrProjectID: ""
+  targetImageTag: ""
+selm:
+  chartName: ""
+  namespace: ""
+  releaseName: ""
+  revision: 0
